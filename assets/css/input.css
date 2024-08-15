@@ -9,6 +9,7 @@
 
 body{
     font-family: "Kanit", sans-serif;
+    background-color: #FDFDFD;
 }
 
 .full-screen{
@@ -16,7 +17,6 @@ body{
 }
 
 .hero{
-    background-image: url('/assets/img/strawberry-cake.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
