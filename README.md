@@ -6,8 +6,8 @@
  2. นายนาชน ปฏิพิมพาคม
 
 การทำงาน
- - [ ] home page
- - [ ] product page
- - [ ] about page
- - [ ] login page
- - [ ] register page
+ - [x] home page
+ - [x] product page
+ - [x] about page
+ - [x] login page
+ - [x] register page
